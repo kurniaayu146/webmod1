@@ -1,0 +1,17 @@
+/* Tabel Emas */
+.table {
+  width: 50%;
+  border-collapse: collapse;
+  background-color: gold;
+}
+
+.th,
+td {
+  border: 1px solid black;
+  padding: 5px;
+  color: black;
+}
+
+.th {
+  background-color: gold;
+}
